@@ -25,12 +25,11 @@ For this project, I was interestested in using Airbnb data for New York City fro
 
 The following are the files available in this repository:
 
-* `Project - Write a Data Science Blog Post.ipynb` - a notebook of the analysis performed following the CRISP-DM process
+* `Airbnb_NYC-Data Analysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process
 
-* `calendar.csv` and `calendar_boston.csv` - csvs containing **home_id**, **date**, **availability**, and **price** for each home
+* `calendar2017.csv` and `calendar2018.csv` - csvs containing **home_id**, **date**, **availability**, and **price** for each home
 
-* `listings.csv` and `listings_boston.csv` - these were not used for this particular analysis, but they were available from the original kaggle link
-
+* `listings_detailed2017.csv` and `listings_detailed2018.csv` - csvs containing detailed listing data
 
 ## Results <a name="results"></a>
 
