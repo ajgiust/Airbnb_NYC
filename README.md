@@ -23,7 +23,14 @@ For this project, I was interestested in using Airbnb data for New York City fro
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebook available here to showcase work related to the above questions.  The notebook is exploratory in searching through the data pertaining to the questions.  Markdown cells and comments were used to assist in walking through the thought process for individual steps.  
+The following are the files available in this repository:
+
+* `AirBnB_Project_1_Analysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process
+
+* `calendar.csv` and `calendar_boston.csv` - csvs containing **home_id**, **date**, **availability**, and **price** for each home
+
+* `listings.csv` and `listings_boston.csv` - these were not used for this particular analysis, but they were available from the original kaggle link
+
 
 ## Results <a name="results"></a>
 
