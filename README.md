@@ -25,7 +25,7 @@ For this project, I was interestested in using Airbnb data for New York City fro
 
 The following are the files available in this repository:
 
-* `AirBnB_Project_1_Analysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process
+* `Project - Write a Data Science Blog Post.ipynb` - a notebook of the analysis performed following the CRISP-DM process
 
 * `calendar.csv` and `calendar_boston.csv` - csvs containing **home_id**, **date**, **availability**, and **price** for each home
 
